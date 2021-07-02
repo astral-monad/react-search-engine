@@ -5,6 +5,7 @@
 }
 
 .App footer {
+  font-family: 'Caveat';
   font-size: 11px;
   margin: 10px 0;
 }
@@ -18,6 +19,7 @@
 }
 
 .Weather h1 {
+  font-family: 'Pacifico';
   font-size: 36px;
   text-align: center;
   color: turquoise;
